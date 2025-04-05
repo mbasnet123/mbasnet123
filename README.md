@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mbasnet123.
-- 👀 I’m interested in Java,Web,Flutter etc.
-- 🌱 I’m currently learning Java and Flutter. 
-- 💞️ I’m looking to collaborate on real-time projects on Web and Flutter.
+- 👀 I’m interested in Flutter, Node.js, Django, Data Structures and Algorithms, etc.
+- 🌱 I’m currently learning Flutter, Node.js, and Django. 
+- 💞️ I’m looking to collaborate on real-time projects on Flutter, Node.js, and Django.
